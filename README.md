@@ -7,6 +7,10 @@ This project evaluates the **speed**, **accuracy**, and **usability** of four pr
 - [LatinCy (spaCy wrapper)](https://github.com/LandingTorch/LatinCy)
 - [UDPipe](https://ufal.mff.cuni.cz/udpipe)
 
+Three samples are used for testing:
+- [update]
+- [update]
+- [update]
 ## Project Goal
 
 To provide a reproducible and comparative analysis of Latin NLP tools using sentence- and paragraph-length texts with relevance to medieval studies.
