@@ -1,4 +1,4 @@
-"","Sample","SampleID","WordID","Word","POS","Analysis","Lemma","Language","Glossing","GlossingID","Manuscript"
+"","sample","sample_id","word_id","word","pos","analysis","lemma","language","glossing","glossing_id","manuscript"
 "","BCr.27a40: .i. sidera uel spatia    'i.e. stars or spaces'","BCr.27a40","http://gams.uni-graz.at/o:glossvibe.bvi#BCr.27a40.0",".i.","","",".i.","la","gl. ea libere quae tellureShow Parallels","http://gams.uni-graz.at/o:glossvibe.bvi#Jon_296_23b","BCr"
 "","BCr.27a40: .i. sidera uel spatia    'i.e. stars or spaces'","BCr.27a40","http://gams.uni-graz.at/o:glossvibe.bvi#BCr.27a40.1","sidera","NOUN","nom.pl.neut.","sidus","la","gl. ea libere quae tellureShow Parallels","http://gams.uni-graz.at/o:glossvibe.bvi#Jon_296_23b","BCr"
 "","BCr.27a40: .i. sidera uel spatia    'i.e. stars or spaces'","BCr.27a40","http://gams.uni-graz.at/o:glossvibe.bvi#BCr.27a40.2","uel","CCONJ","","uel","la","gl. ea libere quae tellureShow Parallels","http://gams.uni-graz.at/o:glossvibe.bvi#Jon_296_23b","BCr"

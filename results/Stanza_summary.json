@@ -1,0 +1,23 @@
+{
+  "model_name": "Stanza",
+  "processing_times": {
+    "medieval_charters": 0.31806492805480957,
+    "glosses": 4.663486003875732
+  },
+  "accuracy": {
+    "glosses_lemma": NaN,
+    "glosses_pos": NaN
+  },
+  "precision": {
+    "glosses_lemma": 0.0,
+    "glosses_pos": 0.0
+  },
+  "recall": {
+    "glosses_lemma": 0.0,
+    "glosses_pos": 0.0
+  },
+  "f1_score": {
+    "glosses_lemma": 0.0,
+    "glosses_pos": 0.0
+  }
+}

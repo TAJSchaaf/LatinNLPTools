@@ -1,4 +1,4 @@
-SampleID,WordID,Word,Lemma,POS
+sample_id,word_id,word,lemma,pos
 ch_1,ch_1_1,in,in,ADP
 ch_1,ch_1_2,dei,deus,PROPN
 ch_1,ch_1_3,omnipotentis,omnipotens,ADJ
