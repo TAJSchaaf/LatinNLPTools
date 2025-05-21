@@ -1,4 +1,4 @@
-SampleID,WordID,Word,Lemma_gold,POS_gold,Lemma_pred,POS_pred
+sample_id,word_id,word,lemma_gold,pos_gold,lemma_pred,pos_pred
 ch_1,ch_1_1,in,in,ADP,in,ADP
 ch_1,ch_1_2,dei,deus,PROPN,deus,NOUN
 ch_1,ch_1_3,omnipotentis,omnipotens,ADJ,omnipotens,ADJ
