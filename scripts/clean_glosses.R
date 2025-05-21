@@ -13,7 +13,7 @@ head(glosses)
 
 # Select only the sample_id, word, and lemma columns
 glosses_cleaned <- glosses %>%
-  select(sample_id, word, lemma, pos) %>%
+  select(sample_id, word_id, word, lemma, pos) %>%
   # Replace '.i.' with 'idest' in word and lemma
   mutate(word = str_replace_all(word, "\\.i\\.", "idest")) %>%
   mutate(word = str_replace_all(word, "i\\.", "idest")) %>%
