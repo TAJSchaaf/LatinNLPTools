@@ -1,0 +1,31 @@
+{
+  "model_name": "UDPipe",
+  "processing_times": {
+    "glosses": 0.16693806648254395,
+    "medieval_charters": 8.216296911239624
+  },
+  "accuracy": {
+    "glosses_lemma": 0.2,
+    "glosses_pos": 0.6,
+    "medieval_charters_lemma": 0.9937106918238994,
+    "medieval_charters_pos": 0.9245283018867925
+  },
+  "precision": {
+    "glosses_lemma": 0.2,
+    "glosses_pos": 0.6,
+    "medieval_charters_lemma": 0.9937106918238994,
+    "medieval_charters_pos": 0.9245283018867925
+  },
+  "recall": {
+    "glosses_lemma": 1.0,
+    "glosses_pos": 1.0,
+    "medieval_charters_lemma": 1.0,
+    "medieval_charters_pos": 1.0
+  },
+  "f1_score": {
+    "glosses_lemma": 0.3333333333333333,
+    "glosses_pos": 0.75,
+    "medieval_charters_lemma": 0.9968454258675079,
+    "medieval_charters_pos": 0.9607843137254902
+  }
+}

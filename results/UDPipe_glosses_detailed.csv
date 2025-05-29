@@ -1,0 +1,6 @@
+sample_id,word_id,word,lemma_gold,pos_gold,lemma_pred,pos_pred
+BCr.30b36,http://gams.uni-graz.at/o:glossvibe.bvi#BCr.30b36.10,mensis,mensis,NOUN,mensa,NOUN
+Sg.68.06a,http://gams.uni-graz.at/o:glossvibe.bvi#Sg.68.06a.7,dies,dies,NOUN,dies,NOUN
+Sg.68.06a,http://gams.uni-graz.at/o:glossvibe.bvi#Sg.68.06a.9,mensis,mensis,NOUN,mensa,NOUN
+BCr.32c12,http://gams.uni-graz.at/o:glossvibe.bvi#BCr.32c12.4,kalendis,kalenda,NOUN,kalendus,VERB
+BCr.32c12,http://gams.uni-graz.at/o:glossvibe.bvi#BCr.32c12.5,ianuaris,ianuarius,NOUN,ianuaris,ADJ
