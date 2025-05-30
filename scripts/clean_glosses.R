@@ -3,7 +3,7 @@ if (!requireNamespace("pacman", quietly = TRUE)) install.packages("pacman")
 
 # Load required packages
 pacman::p_load(
-  "readr", "stringr", "dplyr"
+  "readr", "stringr", "dplyr", "tidyr"
 )
 
 # data import
@@ -14,14 +14,18 @@ head(glosses)
 # Select only the sample_id, word, and lemma columns
 glosses_cleaned <- glosses %>%
   select(sample_id, word_id, word, lemma, pos) %>%
-  # Replace '.i.' with 'idest' in word and lemma
-  mutate(word = str_replace_all(word, "\\.i\\.", "idest")) %>%
-  mutate(word = str_replace_all(word, "i\\.", "idest")) %>%
-  mutate(lemma = str_replace_all(lemma, "\\.i\\.", "idest")) %>%
-  mutate(lemma = str_replace_all(lemma, "i\\.", "idest")) %>%
-  # Replace '???' with '?' in word and lemma
-  mutate(word = str_replace_all(word, fixed("???"), "?")) %>%
-  mutate(lemma = str_replace_all(lemma, fixed("???"), "?"))
+  mutate(
+    word = str_replace_all(word, "\\.i\\.", "idest"),
+    word = str_replace_all(word, "i\\.", "idest"),
+    lemma = str_replace_all(lemma, "\\.i\\.", "idest"),
+    lemma = str_replace_all(lemma, "i\\.", "idest"),
+    
+    # Replace empty strings or NA in pos with CCONJ
+    pos = ifelse(is.na(pos) | pos == "", "CCONJ", pos),
+    
+    word = str_replace_all(word, fixed("???"), "?"),
+    lemma = str_replace_all(lemma, fixed("???"), "?")
+  )
 
 head(glosses_cleaned)
 
