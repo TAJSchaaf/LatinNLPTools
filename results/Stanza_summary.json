@@ -1,20 +1,20 @@
 {
   "model_name": "Stanza",
   "processing_times": {
-    "glosses": 4.283989191055298,
-    "medieval_charters": 0.17957115173339844
+    "glosses": 4.556148052215576,
+    "medieval_charters": 36.981852293014526
   },
   "accuracy": {
     "glosses_lemma": 0.8043052837573386,
-    "glosses_pos": 0.6947162426614482,
-    "medieval_charters_lemma": 0.646551724137931,
-    "medieval_charters_pos": 0.8275862068965517
+    "glosses_pos": 0.837573385518591,
+    "medieval_charters_lemma": 0.7089641604653152,
+    "medieval_charters_pos": 0.7989479086476777
   },
   "precision": {
     "glosses_lemma": 0.8043052837573386,
-    "glosses_pos": 0.6947162426614482,
-    "medieval_charters_lemma": 0.646551724137931,
-    "medieval_charters_pos": 0.8275862068965517
+    "glosses_pos": 0.837573385518591,
+    "medieval_charters_lemma": 0.7089641604653152,
+    "medieval_charters_pos": 0.7989479086476777
   },
   "recall": {
     "glosses_lemma": 1.0,
@@ -24,8 +24,8 @@
   },
   "f1_score": {
     "glosses_lemma": 0.8915401301518439,
-    "glosses_pos": 0.8198614318706697,
-    "medieval_charters_lemma": 0.7853403141361257,
-    "medieval_charters_pos": 0.9056603773584906
+    "glosses_pos": 0.9116080937167199,
+    "medieval_charters_lemma": 0.8297004429540279,
+    "medieval_charters_pos": 0.8882390699664788
   }
 }
