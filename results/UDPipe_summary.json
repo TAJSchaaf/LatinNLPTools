@@ -1,20 +1,20 @@
 {
   "model_name": "UDPipe",
   "processing_times": {
-    "glosses": 0.16693806648254395,
-    "medieval_charters": 8.216296911239624
+    "glosses": 0.18763303756713867,
+    "medieval_charters": 9.29444670677185
   },
   "accuracy": {
-    "glosses_lemma": 0.2,
-    "glosses_pos": 0.6,
-    "medieval_charters_lemma": 0.9937106918238994,
-    "medieval_charters_pos": 0.9245283018867925
+    "glosses_lemma": 0.6831831831831832,
+    "glosses_pos": 0.6261261261261262,
+    "medieval_charters_lemma": 0.6775793650793651,
+    "medieval_charters_pos": 0.6649305555555556
   },
   "precision": {
-    "glosses_lemma": 0.2,
-    "glosses_pos": 0.6,
-    "medieval_charters_lemma": 0.9937106918238994,
-    "medieval_charters_pos": 0.9245283018867925
+    "glosses_lemma": 0.6831831831831832,
+    "glosses_pos": 0.6261261261261262,
+    "medieval_charters_lemma": 0.6775793650793651,
+    "medieval_charters_pos": 0.6649305555555556
   },
   "recall": {
     "glosses_lemma": 1.0,
@@ -23,9 +23,9 @@
     "medieval_charters_pos": 1.0
   },
   "f1_score": {
-    "glosses_lemma": 0.3333333333333333,
-    "glosses_pos": 0.75,
-    "medieval_charters_lemma": 0.9968454258675079,
-    "medieval_charters_pos": 0.9607843137254902
+    "glosses_lemma": 0.8117752007136485,
+    "glosses_pos": 0.7700831024930748,
+    "medieval_charters_lemma": 0.807806031933767,
+    "medieval_charters_pos": 0.7987486965589156
   }
 }
