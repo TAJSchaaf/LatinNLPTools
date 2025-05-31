@@ -1,0 +1,33 @@
+sample_id,word_id,word,lemma_gold,pos_gold,lemma_pred,pos_pred
+BCr.27c22,http://gams.uni-graz.at/o:glossvibe.bvi#BCr.27c22.3,diei,dies,NOUN,dies,NOUN
+Ang.53b01a,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.53b01a.2,idest,idest,CCONJ,idest,CCONJ
+Ang.53b01a,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.53b01a.3,unus,unus,NUM,unus,NUM
+Ang.53b01a,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.53b01a.4,deest,desum,VERB,desum,VERB
+Ang.53b01a,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.53b01a.5,de,de,ADP,de,PREP
+Ang.53b01a,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.53b01a.6,l,(Roman numerals),NUM,l.,ABBR
+BVi.02a19,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.02a19.4,de,de,ADP,de,PREP
+BCr.29c41,http://gams.uni-graz.at/o:glossvibe.bvi#BCr.29c41.7,nobis,nos,PRON,nos,PRON
+BCr.29d50,http://gams.uni-graz.at/o:glossvibe.bvi#BCr.29d50.10,obi,obeo,VERB,obeo,VERB
+BCr.29d50,http://gams.uni-graz.at/o:glossvibe.bvi#BCr.29d50.11,ad,ad,ADP,ad,PREP
+BCr.29d50,http://gams.uni-graz.at/o:glossvibe.bvi#BCr.29d50.12,eo,is,PRON,is,DET
+BCr.29d50,http://gams.uni-graz.at/o:glossvibe.bvi#BCr.29d50.13,die,dies,NOUN,dies,NOUN
+BCr.29d50,http://gams.uni-graz.at/o:glossvibe.bvi#BCr.29d50.14,assumpsit,assumo,VERB,assumo,VERB
+BCr.29d50,http://gams.uni-graz.at/o:glossvibe.bvi#BCr.29d50.15,se,se,PRON,se,PRON
+BCr.29d50,http://gams.uni-graz.at/o:glossvibe.bvi#BCr.29d50.16,meo,meus,DET,meus,POSS
+BCr.29d50,http://gams.uni-graz.at/o:glossvibe.bvi#BCr.29d50.17,christum,christus,PROPN,Christus,NOUN
+BCr.29d50,http://gams.uni-graz.at/o:glossvibe.bvi#BCr.29d50.18,in,in,ADP,in,PREP
+BCr.29d50,http://gams.uni-graz.at/o:glossvibe.bvi#BCr.29d50.19,templo,templum,NOUN,templum,NOUN
+Ang.54b34c,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.54b34c.2,et,et,CCONJ,et,CCONJ
+BVi.03a10c,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.03a10c.1,ad,ad,ADP,ad,PREP
+BVi.03a10c,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.03a10c.2,grecum,graecus,NOUN,grecus,ADJ
+BVi.03a10c,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.03a10c.3,numerum,numerus,NOUN,numerus,NOUN
+BVi.03a29.32,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.03a29.32.1,idest,idest,CCONJ,idest,CCONJ
+BVi.03a29.32,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.03a29.32.2,termini,terminus,PROPN,termen|terminus,NOUN
+BVi.03b23,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.03b23.4,mensis,mensis,NOUN,mensa|mensis,NOUN
+BVi.03b35a,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.03b35a.1,sed,sed,CCONJ,sed,CCONJ
+BCr.32a54,http://gams.uni-graz.at/o:glossvibe.bvi#BCr.32a54.2,kalendis,kalenda,NOUN,Kalenda,NOUN
+BCr.32a54,http://gams.uni-graz.at/o:glossvibe.bvi#BCr.32a54.3,aprilis,aprilis,ADJ,Aprilis,ADJ
+Ang.58a37h,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.58a37h.3,kalendis,kalenda,NOUN,Kalenda,NOUN
+Ang.58a37h,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.58a37h.4,augustarum,augustus 1,ADJ,Augusta,NOUN
+BVi.04b45.58,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.04b45.58.1,idest,idest,CCONJ,idest,CCONJ
+BVi.04c10.60,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.04c10.60.3,kalendis,kalenda,NOUN,Kalenda,NOUN

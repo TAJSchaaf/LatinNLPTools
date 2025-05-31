@@ -1,0 +1,31 @@
+{
+  "model_name": "TreeTagger",
+  "processing_times": {
+    "glosses": 1.8556349277496338,
+    "medieval_charters": 3.0427939891815186
+  },
+  "accuracy": {
+    "glosses_lemma": 0.6875,
+    "glosses_pos": 0.625,
+    "medieval_charters_lemma": 0.7332539446263769,
+    "medieval_charters_pos": 0.6020499298260537
+  },
+  "precision": {
+    "glosses_lemma": 0.6875,
+    "glosses_pos": 0.625,
+    "medieval_charters_lemma": 0.7332539446263769,
+    "medieval_charters_pos": 0.6020499298260537
+  },
+  "recall": {
+    "glosses_lemma": 1.0,
+    "glosses_pos": 1.0,
+    "medieval_charters_lemma": 1.0,
+    "medieval_charters_pos": 1.0
+  },
+  "f1_score": {
+    "glosses_lemma": 0.8148148148148148,
+    "glosses_pos": 0.7692307692307693,
+    "medieval_charters_lemma": 0.8461009962212298,
+    "medieval_charters_pos": 0.7515994584406276
+  }
+}
