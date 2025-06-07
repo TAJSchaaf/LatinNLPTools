@@ -1,31 +1,47 @@
 {
   "model_name": "UDPipe",
   "processing_times": {
-    "glosses": 0.18763303756713867,
-    "medieval_charters": 9.29444670677185
+    "glosses": 0.14892292022705078,
+    "medieval_charters": 8.464446067810059
   },
   "accuracy": {
-    "glosses_lemma": 0.6831831831831832,
-    "glosses_pos": 0.6261261261261262,
-    "medieval_charters_lemma": 0.6775793650793651,
-    "medieval_charters_pos": 0.6649305555555556
+    "glosses_all_lemma": 0.6831831831831832,
+    "glosses_all_pos": 0.6261261261261262,
+    "glosses_aligned_only_lemma": 0.6883509833585476,
+    "glosses_aligned_only_pos": 0.6308623298033282,
+    "medieval_charters_all_lemma": 0.6775793650793651,
+    "medieval_charters_all_pos": 0.6649305555555556,
+    "medieval_charters_aligned_only_lemma": 0.6937531742001015,
+    "medieval_charters_aligned_only_pos": 0.6783900457084815
   },
   "precision": {
-    "glosses_lemma": 0.6831831831831832,
-    "glosses_pos": 0.6261261261261262,
-    "medieval_charters_lemma": 0.6775793650793651,
-    "medieval_charters_pos": 0.6649305555555556
+    "glosses_all_lemma": 0.6831831831831832,
+    "glosses_all_pos": 0.6261261261261262,
+    "glosses_aligned_only_lemma": 0.6883509833585476,
+    "glosses_aligned_only_pos": 0.6308623298033282,
+    "medieval_charters_all_lemma": 0.6775793650793651,
+    "medieval_charters_all_pos": 0.6649305555555556,
+    "medieval_charters_aligned_only_lemma": 0.6937531742001015,
+    "medieval_charters_aligned_only_pos": 0.6783900457084815
   },
   "recall": {
-    "glosses_lemma": 1.0,
-    "glosses_pos": 1.0,
-    "medieval_charters_lemma": 1.0,
-    "medieval_charters_pos": 1.0
+    "glosses_all_lemma": 1.0,
+    "glosses_all_pos": 1.0,
+    "glosses_aligned_only_lemma": 1.0,
+    "glosses_aligned_only_pos": 1.0,
+    "medieval_charters_all_lemma": 1.0,
+    "medieval_charters_all_pos": 1.0,
+    "medieval_charters_aligned_only_lemma": 1.0,
+    "medieval_charters_aligned_only_pos": 1.0
   },
   "f1_score": {
-    "glosses_lemma": 0.8117752007136485,
-    "glosses_pos": 0.7700831024930748,
-    "medieval_charters_lemma": 0.807806031933767,
-    "medieval_charters_pos": 0.7987486965589156
+    "glosses_all_lemma": 0.8117752007136485,
+    "glosses_all_pos": 0.7700831024930748,
+    "glosses_aligned_only_lemma": 0.8154121863799283,
+    "glosses_aligned_only_pos": 0.7736549165120594,
+    "medieval_charters_all_lemma": 0.807806031933767,
+    "medieval_charters_all_pos": 0.7987486965589156,
+    "medieval_charters_aligned_only_lemma": 0.8191904047976012,
+    "medieval_charters_aligned_only_pos": 0.8083818745744761
   }
 }

@@ -1,8 +1,8 @@
 {
   "model_name": "Stanza",
   "processing_times": {
-    "glosses": 4.47740912437439,
-    "medieval_charters": 40.78933596611023
+    "glosses": 4.717331886291504,
+    "medieval_charters": 41.87282466888428
   },
   "accuracy": {
     "glosses_all_pos": 0.7867867867867868,
@@ -14,7 +14,6 @@
     "medieval_charters_aligned_only_pos": 0.7984815066168985
   },
   "precision": {
-    "glosses_all_lemma": 0.7747747747747747,
     "glosses_all_pos": 0.7867867867867868,
     "glosses_aligned_only_lemma": 0.7794561933534743,
     "glosses_aligned_only_pos": 0.7915407854984894,
