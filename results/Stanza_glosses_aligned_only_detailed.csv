@@ -130,7 +130,6 @@ BVi.01b14,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.01b14.1,septimo,septem,NUM
 BVi.01b14,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.01b14.2,numero,numerus,NOUN,2,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.01b14.2,numero,numero,ADV,True
 BVi.01b22,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.01b22.0,idest,idest,CCONJ,0,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.01b22.0,idest,idest,CCONJ,True
 BVi.01b22,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.01b22.1,numer,nan,CCONJ,1,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.01b22.1,numer,numer,NOUN,True
-BVi.01b24,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.01b23.0,h.ex,nan,CCONJ,0,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.01b24.0,h.,h.,NUM,False
 Ang.50b12a,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.50b12a.0,similitudine,similitudo,NOUN,0,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.50b12a.0,similitudine,similitudo,NOUN,True
 Ang.50b12a,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.50b12a.1,septimi,septimus 1,ADJ,1,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.50b12a.1,septimi,septimus,ADJ,True
 Ang.50b12a,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.50b12a.2,diei,dies,NOUN,2,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.50b12a.2,diei,dies,NOUN,True
@@ -595,9 +594,6 @@ BVi.04b08.49,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.04b08.49.05,kalendae,ka
 BVi.04b08.49,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.04b08.49.06,aprilis,nan,CCONJ,2,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.04b08.49.2,aprilis,aprilis,NOUN,True
 BVi.04b08.49,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.04b08.49.07,idest,idest,CCONJ,3,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.04b08.49.3,idest,idest,CCONJ,True
 BVi.04b08.49,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.04b08.49.08,anni,annus,NOUN,4,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.04b08.49.4,anni,annus,NOUN,True
-Ang.58a13b,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.58a13b.0,s.,idest,CCONJ,0,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.58a13b.0,s,s,NUM,False
-Ang.58a13b,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.58a13b.1,contra,contra,ADP,1,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.58a13b.1,.,.,PUNCT,False
-Ang.58a13b,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.58a13b.2,dixerit,dico,VERB,2,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.58a13b.0,contra,contra,ADP,False
 BCr.32a36b,http://gams.uni-graz.at/o:glossvibe.bvi#BCr.32a36b.0,idest,idest,CCONJ,0,http://gams.uni-graz.at/o:glossvibe.bvi#BCr.32a36b.0,idest,idest,CCONJ,True
 BCr.32a36b,http://gams.uni-graz.at/o:glossvibe.bvi#BCr.32a36b.1,crementum,crementus,NOUN,1,http://gams.uni-graz.at/o:glossvibe.bvi#BCr.32a36b.1,crementum,crementum,NOUN,True
 BVi.04a40.47,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.04a40.47.0,crementus,crementus,NOUN,0,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.04a40.47.0,crementus,crementus,NOUN,True
