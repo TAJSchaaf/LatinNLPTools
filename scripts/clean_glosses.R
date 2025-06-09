@@ -20,9 +20,10 @@ glosses_cleaned <- glosses %>%
     lemma = str_replace_all(lemma, "\\.i\\.", "idest"),
     lemma = str_replace_all(lemma, "i\\.", "idest"),
     
-    # Replace empty strings or NA in pos with CCONJ
-    pos = ifelse(is.na(pos) | pos == "", "CCONJ", pos),
+    # Replace empty strings in pos with NA
+    pos = ifelse(is.na(pos) | pos == "", "NA", pos),
     
+    # Replace ??? with ?
     word = str_replace_all(word, fixed("???"), "?"),
     lemma = str_replace_all(lemma, fixed("???"), "?")
   )
