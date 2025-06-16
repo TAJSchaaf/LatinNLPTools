@@ -11,7 +11,7 @@ pacman::p_load(
 )
 
 # data import select .csv
-data = read.csv("/Users/Thea/Desktop/LatinNLPTools/data/gold_standard/late-latin-charters.csv", header=TRUE)
+data = read.csv("/Users/Thea/Desktop/LatinNLPTools/data/gold_standard_original/caesar_texts.csv", header=TRUE)
 
 head(data)
 
@@ -26,4 +26,4 @@ data_cleaned <- data %>%
 head(data_cleaned)
 
 # Write the cleaned data to a new CSV file
-write_csv(data_cleaned, "/Users/Thea/Desktop/LatinNLPTools/data/gold_standard/gs_medieval_charters.csv")  
+write_csv(data_cleaned, "/Users/Thea/Desktop/LatinNLPTools/data/gold_standard/gs_classical_latin.csv")  
