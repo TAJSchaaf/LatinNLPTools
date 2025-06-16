@@ -239,7 +239,7 @@ Ang.53b01a,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.53b01a.2,idest,idest,NA
 Ang.53b01a,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.53b01a.3,unus,unus,NUM
 Ang.53b01a,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.53b01a.4,deest,desum,VERB
 Ang.53b01a,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.53b01a.5,de,de,ADP
-Ang.53b01a,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.53b01a.6,l,(Roman numerals),NUM
+Ang.53b01a,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.53b01a.6,l,(roman numerals),NUM
 BVi.02a19,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.02a19.0,idest,idest,NA
 BVi.02a19,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.02a19.1,unus,unus,NUM
 BVi.02a19,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.02a19.2,deest,desum,VERB
@@ -316,7 +316,7 @@ BVi.02c29c,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.02c29c.1,qui,qui,PRON
 BVi.02c29c,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.02c29c.2,dimicauit,dimico,VERB
 BVi.02c29c,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.02c29c.3,contra,contra,ADP
 BVi.02c29c,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.02c29c.4,augustum,augustus 2,PROPN
-BVi.02cd01.21,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.02cd01.21.0,Et,et,CCONJ
+BVi.02cd01.21,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.02cd01.21.0,et,et,CCONJ
 BVi.02cd01.21,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.02cd01.21.02,horis,hora,NA
 BVi.02cd01.21,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.02cd01.21.03,lunaribus,lunaris,ADJ
 BVi.02cd01.21,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.02cd01.21.04,reliqua,reliquus,DET
@@ -330,7 +330,7 @@ BVi.02cd01.21,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.02cd01.21.21,soli,sol,
 BVi.02cd01.21,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.02cd01.21.26,luna,luna,NOUN
 BVi.02cd01.21,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.02cd01.21.34,nisi,nisi,CCONJ
 BVi.02cd01.21,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.02cd01.21.40,diebus,dies,NOUN
-BVi.02cd02.23,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.02cd02.23.0,Luna,luna,NOUN
+BVi.02cd02.23,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.02cd02.23.0,luna,luna,NOUN
 BVi.02cd02.23,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.02cd02.23.01,tridecima,tredecim,NUM
 BVi.02cd02.23,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.02cd02.23.03,reliqua,reliquus,DET
 BVi.02cd02.23,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.02cd02.23.10b,hore,hora,NA
@@ -574,7 +574,7 @@ Ang.55b21b,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.55b21b.0,idest,idest,NA
 Ang.55b21b,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.55b21b.1,sagitarius,sagittarius,NOUN
 BCr.30d51,http://gams.uni-graz.at/o:glossvibe.bvi#BCr.30d51.0,sagitarius,sagittarius,NOUN
 BVi.03d34,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.03d34.0,sagittarius,sagittarius,NOUN
-BVi.04a10,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.04a10.0,·l·,(Roman numerals),NUM
+BVi.04a10,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.04a10.0,·l·,(roman numerals),NUM
 BVi.04a10,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.04a10.1,satius,satius,NOUN
 BVi.04a05.40,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.04a05.40.12,in,i,ADP
 BVi.04a05.40,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.04a05.40.13,tris,tres 2,ADJ
@@ -632,7 +632,7 @@ Ang.58a37h,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.58a37h.1,in,in,ADP
 Ang.58a37h,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.58a37h.3,kalendis,kalenda,NOUN
 Ang.58a37h,http://gams.uni-graz.at/o:glossvibe.bvi#Ang.58a37h.4,augustarum,augustus 1,ADJ
 BCr.32b44,http://gams.uni-graz.at/o:glossvibe.bvi#BCr.32b44.3,kalendis,kalenda,NOUN
-BCr.32b44,http://gams.uni-graz.at/o:glossvibe.bvi#BCr.32b44.4,septembris,September,NOUN
+BCr.32b44,http://gams.uni-graz.at/o:glossvibe.bvi#BCr.32b44.4,septembris,september,NOUN
 BVi.04b45.58,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.04b45.58.1,idest,idest,NA
 BVi.04b45.58,http://gams.uni-graz.at/o:glossvibe.bvi#BVi.04b45.58.3,kalendae,kalenda,NOUN
 BCr.32c16,http://gams.uni-graz.at/o:glossvibe.bvi#BCr.32c16.0,idest,idest,NA

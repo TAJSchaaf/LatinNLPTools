@@ -15,6 +15,12 @@ head(glosses)
 glosses_cleaned <- glosses %>%
   select(sample_id, word_id, word, lemma, pos) %>%
   mutate(
+    
+    # Convert word and lemma values to lowercase
+    word = tolower(word),
+    lemma = tolower(lemma),
+    
+    # Replace .i. and .i with idest
     word = str_replace_all(word, "\\.i\\.", "idest"),
     word = str_replace_all(word, "i\\.", "idest"),
     lemma = str_replace_all(lemma, "\\.i\\.", "idest"),
@@ -26,6 +32,7 @@ glosses_cleaned <- glosses %>%
     # Replace ??? with ?
     word = str_replace_all(word, fixed("???"), "?"),
     lemma = str_replace_all(lemma, fixed("???"), "?")
+    
   )
 
 head(glosses_cleaned)

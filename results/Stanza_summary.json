@@ -1,26 +1,37 @@
 {
   "model_name": "Stanza",
   "processing_times": {
-    "glosses": 4.717331886291504,
-    "medieval_charters": 41.87282466888428
+    "glosses": 2.640760898590088,
+    "medieval_charters": 20.83250403404236,
+    "classical_latin": 16.23956298828125
   },
   "accuracy": {
-    "glosses_all_pos": 0.7867867867867868,
+    "glosses_all_lemma": 0.7747747747747747,
+    "glosses_all_pos": 0.6666666666666666,
     "glosses_aligned_only_lemma": 0.7794561933534743,
-    "glosses_aligned_only_pos": 0.7915407854984894,
-    "medieval_charters_all_lemma": 0.6906828703703703,
-    "medieval_charters_all_pos": 0.7807953042328042,
-    "medieval_charters_aligned_only_lemma": 0.708729216152019,
-    "medieval_charters_aligned_only_pos": 0.7984815066168985
+    "glosses_aligned_only_pos": 0.6706948640483383,
+    "medieval_charters_all_lemma": 0.7135003306878307,
+    "medieval_charters_all_pos": 0.7796792328042328,
+    "medieval_charters_aligned_only_lemma": 0.7321428571428571,
+    "medieval_charters_aligned_only_pos": 0.7974635222259925,
+    "classical_latin_all_lemma": 0.7878733518701229,
+    "classical_latin_all_pos": 0.8651897031123867,
+    "classical_latin_aligned_only_lemma": 0.7878733518701229,
+    "classical_latin_aligned_only_pos": 0.8651897031123867
   },
   "precision": {
-    "glosses_all_pos": 0.7867867867867868,
+    "glosses_all_lemma": 0.7747747747747747,
+    "glosses_all_pos": 0.6666666666666666,
     "glosses_aligned_only_lemma": 0.7794561933534743,
-    "glosses_aligned_only_pos": 0.7915407854984894,
-    "medieval_charters_all_lemma": 0.6906828703703703,
-    "medieval_charters_all_pos": 0.7807953042328042,
-    "medieval_charters_aligned_only_lemma": 0.708729216152019,
-    "medieval_charters_aligned_only_pos": 0.7984815066168985
+    "glosses_aligned_only_pos": 0.6706948640483383,
+    "medieval_charters_all_lemma": 0.7135003306878307,
+    "medieval_charters_all_pos": 0.7796792328042328,
+    "medieval_charters_aligned_only_lemma": 0.7321428571428571,
+    "medieval_charters_aligned_only_pos": 0.7974635222259925,
+    "classical_latin_all_lemma": 0.7878733518701229,
+    "classical_latin_all_pos": 0.8651897031123867,
+    "classical_latin_aligned_only_lemma": 0.7878733518701229,
+    "classical_latin_aligned_only_pos": 0.8651897031123867
   },
   "recall": {
     "glosses_all_lemma": 1.0,
@@ -30,16 +41,24 @@
     "medieval_charters_all_lemma": 1.0,
     "medieval_charters_all_pos": 1.0,
     "medieval_charters_aligned_only_lemma": 1.0,
-    "medieval_charters_aligned_only_pos": 1.0
+    "medieval_charters_aligned_only_pos": 1.0,
+    "classical_latin_all_lemma": 1.0,
+    "classical_latin_all_pos": 1.0,
+    "classical_latin_aligned_only_lemma": 1.0,
+    "classical_latin_aligned_only_pos": 1.0
   },
   "f1_score": {
     "glosses_all_lemma": 0.8730964467005076,
-    "glosses_all_pos": 0.880672268907563,
+    "glosses_all_pos": 0.8,
     "glosses_aligned_only_lemma": 0.8760611205432938,
-    "glosses_aligned_only_pos": 0.8836424957841484,
-    "medieval_charters_all_lemma": 0.8170460379941811,
-    "medieval_charters_all_pos": 0.8769062927972888,
-    "medieval_charters_aligned_only_lemma": 0.8295395308427455,
-    "medieval_charters_aligned_only_pos": 0.8879507558783991
+    "glosses_aligned_only_pos": 0.8028933092224232,
+    "medieval_charters_all_lemma": 0.8327985911755482,
+    "medieval_charters_all_pos": 0.8762019789102058,
+    "medieval_charters_aligned_only_lemma": 0.845360824742268,
+    "medieval_charters_aligned_only_pos": 0.8873209524034263,
+    "classical_latin_all_lemma": 0.8813525309787789,
+    "classical_latin_all_pos": 0.9277230103390238,
+    "classical_latin_aligned_only_lemma": 0.8813525309787789,
+    "classical_latin_aligned_only_pos": 0.9277230103390238
   }
 }
