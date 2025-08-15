@@ -4,16 +4,16 @@ This project evaluates the **speed**, **accuracy**, and **usability** of four pr
 
 - [CLTK (Classical Language Toolkit)](https://cltk.org/)
 - [Stanza for Latin (Stanford NLP)](https://stanfordnlp.github.io/stanza/)
-- [LatinCy (spaCy wrapper)](https://github.com/LandingTorch/LatinCy)
 - [UDPipe](https://ufal.mff.cuni.cz/udpipe)
+- [TreeTagger](https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/)
 
-Three samples are used for testing:
-- [update]
-- [update]
-- [update]
+Two samples are used for testing:
+- [Early medieval glosses from the Vienna Bede](https://gams.uni-graz.at/context:glossvibe)
+- [Early medieval texts from the Late Latin Charter Treebank](https://github.com/UniversalDependencies/UD_Latin-LLCT/blob/master/la_llct-ud-dev.conllu)
+  
 ## Project Goal
 
-To provide a reproducible and comparative analysis of Latin NLP tools using sentence- and paragraph-length texts with relevance to medieval studies.
+To provide a reproducible and comparative analysis of Latin NLP tools for tokenisation, lemmatisation, and POS-tagging, as well as processing speed. 
 
 ## Project Structure
 
@@ -21,7 +21,6 @@ To provide a reproducible and comparative analysis of Latin NLP tools using sent
 - `notebooks/`: Jupyter notebooks for experiments
 - `scripts/`: Python scripts for preprocessing and tool execution
 - `results/`: Accuracy/speed metrics and visualizations
-- `tests/`: Unit tests for core functionality
 
 ## Installation
 
@@ -32,7 +31,7 @@ To provide a reproducible and comparative analysis of Latin NLP tools using sent
 2. Create a virtual environment:
    ```python3 -m venv env
     source env/bin/activate ```
-3. **TO BE ADDED** Install dependencies:
+3. Install dependencies:
 
 ```pip install -r requirements.txt ```
   
@@ -45,7 +44,7 @@ To provide a reproducible and comparative analysis of Latin NLP tools using sent
 - Usability: Observational assessment of set-up complexity, packages required, interface, export options
 ## Wiki
 
-See the GitHub Wiki for documentation, tool setup guides, and detailed findings.
+See the [GitHub Wiki](https://github.com/TAJSchaaf/LatinNLPTools/wiki) for documentation, tool setup guides, and detailed findings.
 
 ## Acknowledgments
 
