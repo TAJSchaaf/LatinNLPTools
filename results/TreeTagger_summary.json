@@ -2,8 +2,7 @@
   "model_name": "TreeTagger",
   "processing_times": {
     "medieval_charters": 1.0531787872314453,
-    "glosses": 0.7553939819335938,
-    "classical_latin": 0.9555840492248535
+    "glosses": 0.7553939819335938
   },
   "accuracy": {
     "medieval_charters_all_lemma": 0.7062251984126984,
@@ -13,11 +12,7 @@
     "glosses_all_lemma": 0.6861861861861862,
     "glosses_all_pos": 0.5420420420420421,
     "glosses_aligned_only_lemma": 0.6913767019667171,
-    "glosses_aligned_only_pos": 0.546142208774584,
-    "classical_latin_all_lemma": 0.8478787335187012,
-    "classical_latin_all_pos": 0.762758991837833,
-    "classical_latin_aligned_only_lemma": 0.8479547900968784,
-    "classical_latin_aligned_only_pos": 0.7627377108001435
+    "glosses_aligned_only_pos": 0.546142208774584
   },
   "precision": {
     "medieval_charters_all_lemma": 0.7062251984126984,
@@ -27,11 +22,7 @@
     "glosses_all_lemma": 0.6861861861861862,
     "glosses_all_pos": 0.5420420420420421,
     "glosses_aligned_only_lemma": 0.6913767019667171,
-    "glosses_aligned_only_pos": 0.546142208774584,
-    "classical_latin_all_lemma": 0.8478787335187012,
-    "classical_latin_all_pos": 0.762758991837833,
-    "classical_latin_aligned_only_lemma": 0.8479547900968784,
-    "classical_latin_aligned_only_pos": 0.7627377108001435
+    "glosses_aligned_only_pos": 0.546142208774584
   },
   "recall": {
     "medieval_charters_all_lemma": 1.0,
@@ -41,11 +32,7 @@
     "glosses_all_lemma": 1.0,
     "glosses_all_pos": 1.0,
     "glosses_aligned_only_lemma": 1.0,
-    "glosses_aligned_only_pos": 1.0,
-    "classical_latin_all_lemma": 1.0,
-    "classical_latin_all_pos": 1.0,
-    "classical_latin_aligned_only_lemma": 1.0,
-    "classical_latin_aligned_only_pos": 1.0
+    "glosses_aligned_only_pos": 1.0
   },
   "f1_score": {
     "medieval_charters_all_lemma": 0.8278217893742278,
@@ -55,10 +42,6 @@
     "glosses_all_lemma": 0.8138913624220837,
     "glosses_all_pos": 0.7030185004868549,
     "glosses_aligned_only_lemma": 0.817531305903399,
-    "glosses_aligned_only_pos": 0.7064579256360078,
-    "classical_latin_all_lemma": 0.917677895349966,
-    "classical_latin_all_pos": 0.8654149493715972,
-    "classical_latin_aligned_only_lemma": 0.9177224406582205,
-    "classical_latin_aligned_only_pos": 0.8654012518446899
+    "glosses_aligned_only_pos": 0.7064579256360078
   }
 }
